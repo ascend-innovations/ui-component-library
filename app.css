@@ -1,0 +1,298 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * degular:
+ *   - http://typekit.com/eulas/00000000000000007735c867
+ *   - http://typekit.com/eulas/00000000000000007735c869
+ *   - http://typekit.com/eulas/00000000000000007735c877
+ *   - http://typekit.com/eulas/00000000000000007735c87b
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-12-07 14:51:52 UTC"}*/
+
+@import url('https://p.typekit.net/p.css?s=1&k=ocg0khl&ht=tk&f=44510.44511.44516.44517&a=126109130&app=typekit&e=css');
+
+@font-face {
+	font-family: 'degular';
+	src: url('https://use.typekit.net/af/174e41/00000000000000007735c867/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3')
+			format('woff2'),
+		url('https://use.typekit.net/af/174e41/00000000000000007735c867/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3')
+			format('woff'),
+		url('https://use.typekit.net/af/174e41/00000000000000007735c867/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3')
+			format('opentype');
+	font-display: auto;
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: 'degular';
+	src: url('https://use.typekit.net/af/f22e6a/00000000000000007735c869/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3')
+			format('woff2'),
+		url('https://use.typekit.net/af/f22e6a/00000000000000007735c869/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3')
+			format('woff'),
+		url('https://use.typekit.net/af/f22e6a/00000000000000007735c869/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3')
+			format('opentype');
+	font-display: auto;
+	font-style: italic;
+	font-weight: 400;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: 'degular';
+	src: url('https://use.typekit.net/af/36a2f5/00000000000000007735c877/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3')
+			format('woff2'),
+		url('https://use.typekit.net/af/36a2f5/00000000000000007735c877/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3')
+			format('woff'),
+		url('https://use.typekit.net/af/36a2f5/00000000000000007735c877/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3')
+			format('opentype');
+	font-display: auto;
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+}
+
+@font-face {
+	font-family: 'degular';
+	src: url('https://use.typekit.net/af/29fa5e/00000000000000007735c87b/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3')
+			format('woff2'),
+		url('https://use.typekit.net/af/29fa5e/00000000000000007735c87b/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3')
+			format('woff'),
+		url('https://use.typekit.net/af/29fa5e/00000000000000007735c87b/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3')
+			format('opentype');
+	font-display: auto;
+	font-style: italic;
+	font-weight: 700;
+	font-stretch: normal;
+}
+
+.tk-degular {
+	font-family: 'degular', sans-serif;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	--primary-900: #7c032b;
+	--primary-800: #960837;
+	--primary-700: #d00b4d;
+	--primary-600: #ff0040;
+	--primary-500: #fb7557; /* shared */
+	--primary-400: #fc846a; /* shared */
+	--primary-300: #fdac9a; /* shared */
+	--primary-200: #fdc8bc; /* shared */
+	--primary-100: #fee3dd; /* shared */
+	--primary-000: #fff3f0;
+
+	--secondary-900: #9b3709;
+	--secondary-800: #aa4111;
+	--secondary-700: #ff702e;
+	--secondary-600: #ffbd14;
+	--secondary-500: #ffd449;
+	--secondary-400: #ffe366;
+	--secondary-300: #ffec99;
+	--secondary-200: #fff4c5;
+	--secondary-100: #fffbe7;
+	--secondary-000: #fffdf2;
+
+	--tertiary-900: #25006b;
+	--tertiary-800: #37009e;
+	--tertiary-700: #4900db;
+	--tertiary-600: #5805ff;
+	--tertiary-500: #6647ff;
+	--tertiary-400: #917aff;
+	--tertiary-300: #c4adff;
+	--tertiary-200: #ebe0ff;
+	--tertiary-100: #f3edff;
+	--tertiary-000: #f8f4ff;
+
+	--neutral-900: #0d0725;
+	--neutral-800: #140d31;
+	--neutral-700: #2b2154;
+	--neutral-600: #3b3168;
+	--neutral-500: #544a83;
+	--neutral-400: #6f6697;
+	--neutral-300: #9e99b9;
+	--neutral-200: #c7c3dc;
+	--neutral-100: #e7e4f4;
+	--neutral-000: #f3f1fd;
+
+	--error-900: #7a271a;
+	--error-800: #912018;
+	--error-700: #b42318;
+	--error-600: #d92d20;
+	--error-500: #f04438;
+	--error-400: #fa7066;
+	--error-300: #fda29b;
+	--error-200: #ffcdca;
+	--error-100: #fee4e2;
+	--error-000: #fef3f2;
+
+	--warning-900: #7a2e0e;
+	--warning-800: #93370d;
+	--warning-700: #b54708;
+	--warning-600: #dc6803;
+	--warning-500: #f79009;
+	--warning-400: #fdb022;
+	--warning-300: #fec84b;
+	--warning-200: #fedf89;
+	--warning-100: #fef0c7;
+	--warning-000: #fffaeb;
+
+	--success-900: #054f31;
+	--success-800: #05603a;
+	--success-700: #027a48;
+	--success-600: #039855;
+	--success-500: #12b76a;
+	--success-400: #32d583;
+	--success-300: #6ce9a6;
+	--success-200: #a6f4c5;
+	--success-100: #d1fadf;
+	--success-000: #ecfdf3;
+
+	--white-transparency-900: rgba(255, 255, 255, 1);
+	--white-transparency-800: rgba(255, 255, 255, 0.9);
+	--white-transparency-700: rgba(255, 255, 255, 0.8);
+	--white-transparency-600: rgba(255, 255, 255, 0.7);
+	--white-transparency-500: rgba(255, 255, 255, 0.6);
+	--white-transparency-400: rgba(255, 255, 255, 0.5);
+	--white-transparency-300: rgba(255, 255, 255, 0.4);
+	--white-transparency-200: rgba(255, 255, 255, 0.3);
+	--white-transparency-100: rgba(255, 255, 255, 0.2);
+	--white-transparency-000: rgba(255, 255, 255, 0.1);
+
+	--neutral-transparency-900: rgba(13, 7, 37, 1);
+	--neutral-transparency-800: rgba(13, 7, 37, 0.9);
+	--neutral-transparency-700: rgba(13, 7, 37, 0.8);
+	--neutral-transparency-600: rgba(13, 7, 37, 0.7);
+	--neutral-transparency-500: rgba(13, 7, 37, 0.6);
+	--neutral-transparency-400: rgba(13, 7, 37, 0.5);
+	--neutral-transparency-300: rgba(13, 7, 37, 0.4);
+	--neutral-transparency-200: rgba(13, 7, 37, 0.3);
+	--neutral-transparency-100: rgba(13, 7, 37, 0.2);
+	--neutral-transparency-000: rgba(13, 7, 37, 0.1);
+
+	--primary-base: var(--primary-500);
+	--secondary-base: var(--secondary-500);
+	--tertiary-base: var(--tertiary-500);
+	--neutral-base: var(--neutral-800);
+	--error-base: var(--error-500);
+	--warning-base: var(--warning-300);
+	--success-base: var(--success-400);
+	--white-transparency-base: var(--white-transparency-900);
+	--neutral-transparency-base: var(--neutral-transparency-900);
+
+	--spacing00: 1px;
+	--spacing01: 2px;
+	--spacing02: 4px;
+	--spacing03: 8px;
+	--spacing04: 10px;
+	--spacing05: 12px;
+	--spacing06: 16px;
+	--spacing07: 18px;
+	--spacing08: 20px;
+	--spacing09: 24px;
+	--spacing10: 32px;
+	--spacing11: 40px;
+	--spacing12: 48px;
+	--spacing13: 64px;
+	--spacing14: 80px;
+	--spacing15: 96px;
+	--spacing16: 128px;
+	--spacing17: 160px;
+
+	--border-radius: 40px;
+}
+
+body {
+	background-color: var(--neutral-800);
+	font-family: 'Degular', sans-serif;
+}
+
+*[class^='primary-headline'] {
+	font-family: 'Venti CF', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 120%;
+}
+
+*[class^='primary-headline-l-xxl'] {
+	font-size: 66px;
+}
+*[class^='primary-headline-l-xl'] {
+	font-size: 46px;
+}
+*[class^='primary-headline-l-l'] {
+	font-size: 36px;
+}
+*[class^='primary-headline-l-m'] {
+	font-size: 32px;
+}
+*[class^='primary-headline-l-s'] {
+	font-size: 26px;
+}
+*[class^='primary-headline-l-xs'] {
+	font-size: 20px;
+}
+
+*[class^='primary-headline-s-xxl'] {
+	font-size: 46px;
+}
+*[class^='primary-headline-s-xl'] {
+	font-size: 36px;
+}
+*[class^='primary-headline-s-l'] {
+	font-size: 29px;
+}
+*[class^='primary-headline-s-m'] {
+	font-size: 26px;
+}
+*[class^='primary-headline-s-s'] {
+	font-size: 23px;
+}
+*[class^='primary-headline-s-xs'] {
+	font-size: 20px;
+}
+
+*[class*='body-copy'] {
+	font-style: normal;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 150%;
+}
+
+*[class*='semibold'] {
+	font-weight: 600;
+}
+
+*[class^='body-copy-xxl'] {
+	font-size: 23px;
+}
+*[class^='body-copy-xl'] {
+	font-size: 20px;
+}
+*[class^='body-copy-l'] {
+	font-size: 18px;
+}
+*[class^='body-copy-m'] {
+	font-size: 16px;
+}
+*[class^='body-copy-s'] {
+	font-size: 14px;
+}
+*[class^='body-copy-xs'] {
+	font-size: 13px;
+}
+*[class^='body-copy-xxs'] {
+	font-size: 11px;
+}
